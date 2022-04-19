@@ -1,0 +1,25 @@
+*{
+    background-color:#34568B;
+}
+img{
+    max-width: 200px;
+    max-height: 500px;
+    float: right;
+    position:relative;
+    margin-top: auto;
+    transform: translate(50 px,50px);
+    padding-right: 100px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 200;
+    font-style: oblique;
+}
+p{
+    color: aliceblue;
+    font-size: medium;
+    font-family:'Courier New', Courier, monospace;
+    position: relative;
+}

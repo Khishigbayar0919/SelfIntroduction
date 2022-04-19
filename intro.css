@@ -1,0 +1,34 @@
+html{
+    background-image: url("nice.png");
+    background-position: center;
+    background-size:auto;
+    background-repeat: no-repeat;
+    border: 2px solid;
+    background-attachment:local;
+}
+button{
+    font-size: larger;
+    font-weight: 400;
+    font-style: inherit;
+}
+#b1{
+    background-color:blue;
+    border-radius: 20px;
+    height: 100px;
+    width: 500px;
+    display: block;
+    margin-top: 200px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+#b2{
+    height: 100px;
+    width: 500px;
+    background-color: blue;
+    display: block;
+    border-radius: 20px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
